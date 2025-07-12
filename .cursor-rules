@@ -4,6 +4,7 @@
 - 常に日本語で回答
 - VALORANT戦術教科書の作成プロジェクト
 - 形式：Markdown（Notion／PDF／スライド展開対応）
+- 自律的な.cursor-rulesの更新（ユーザーの要望や意見をルールに反映するべきであればする）
 
 ## プロジェクトの目的と範囲
 - 「なんとなく」や「反射的」に行動するのではなく、**状況に応じて最適な勝ち筋を見つけ、それに沿った合理的な行動を取れるプレイヤー**になることを目指す
@@ -84,6 +85,7 @@
 - 公式用語と俗語の区別を明確にする
 
 ### 情報の正確性と信頼性
+- **全情報のWeb確認**: 教科書制作時は、どの情報に対しても必ずWeb検索による確認を行う。基礎資料（`docs/tactical_data/valorant_manual_create_plan.md`と`docs/sources/knowledge/valorant_info_source.md`）に記載されている情報源（Dignitas、Reddit、プロ解説サイト、VALORANT公式情報など）を参考にして検索を行う
 - **基礎資料の参照**: `docs/tactical_data/valorant_manual_create_plan.md`と`docs/sources/knowledge/valorant_info_source.md`を必ず参照
 - **最新情報の確認**: Web検索で最新情報を確認し、正確性を保つ
 - **実際の仕様に基づく記述**: 演習問題は実際のゲーム仕様に基づいて作成
