@@ -16,7 +16,6 @@ Desktop.ini
 *~
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
