@@ -33,6 +33,8 @@
 ### 表示スタイルの統一
 - **選択肢の表示**：演習問題や選択肢はリスト形式で統一
   - 例：`- A) 選択肢の内容` （`A)`の前に`- `を付ける）
+- **演習問題の解答**：解答や解説は折りたたみ形式で表示
+  - 例：`<details><summary>正解と解説を見る</summary>【解答内容】</details>`
 
 ### 情報の正確性と信頼性
 - **基礎資料の参照**：`docs/tactical_data/valorant_manual_create_plan.md`（基本情報・設計思想）と`docs/sources/knowledge/valorant_info_source.md`（参考Web情報・戦術知識）を必ず参照
