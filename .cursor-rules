@@ -31,7 +31,7 @@
 - **色分けとアイコン**：重要度や種類を視覚的に区別
 
 ### 情報の正確性と信頼性
-- **基礎資料の参照**：`docs/valorant_manual_create_plan.md`（基本情報・設計思想）と`knowlege/deep_research.md`（参考Web情報・戦術知識）を必ず参照
+- **基礎資料の参照**：`docs/valorant_manual_create_plan.md`（基本情報・設計思想）と`knowledge/valorant_info_source.md`（参考Web情報・戦術知識）を必ず参照
 - **最新情報の確認**：Web検索で最新情報を確認し、正確性を保つ
 - **実際の仕様に基づく記述**：演習問題は実際のゲーム仕様に基づいて作成
 - **継続的な品質向上**：内容の矛盾や不正確な記述を発見した場合は積極的に修正
@@ -114,7 +114,7 @@ valoplant.ggのAscent図を使用
 コードや文章を生成する際は、以下をチェックしてください：
 
 ### 内容の質
-- [ ] `docs/valorant_manual_create_plan.md`（基本情報・設計思想）と`knowlege/deep_research.md`（参考Web情報・戦術知識）を参照したか
+- [ ] `docs/valorant_manual_create_plan.md`（基本情報・設計思想）と`knowlege/valorant_info_source.md`（参考Web情報・戦術知識）を参照したか
 - [ ] エリア支配の観点から論理的に説明されているか
 - [ ] 感覚的な表現ではなく、具体的な判断基準が示されているか
 - [ ] 「なぜそうするのか」が明確に記述されているか
@@ -151,7 +151,7 @@ valorant/
 ```
 
 ## 開発フロー
-1. **基礎情報の確認**：`docs/valorant_manual_create_plan.md`（基本情報・設計思想）と`knowlege/deep_research.md`（参考Web情報・戦術知識）を必ず参照
+1. **基礎情報の確認**：`docs/valorant_manual_create_plan.md`（基本情報・設計思想）と`knowlege/valorant_info_source.md`（参考Web情報・戦術知識）を必ず参照
 2. **情報収集・検証**：Web検索で最新情報を確認し、複数ソースで検証
 3. **章構成に従った執筆**：各章の構成テンプレートに従って執筆
 4. **論理的説明**：エリア支配の観点から戦術を論理的に説明
